@@ -1,0 +1,5 @@
+<canvas 
+    class="canvas custom-class" 
+    canvas-id="shareCanvas" 
+    wx:if="{{show}}" 
+    style="width: {{container.width + 'px'}}; height: {{container.height + 'px'}};margin-left: {{container.left + 'px'}};margin-top: {{container.top + 'px'}};"></canvas>

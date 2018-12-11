@@ -1,14 +1,14 @@
 {
-  "name": "wexp-easy-canvas",
-  "version": "1.0.0",
+  "name": "weapp-easy-canvas",
+  "version": "1.0.1",
   "description": "easy to draw canvas in weapp",
-  "main": "index.xu",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chaunjie/wexp-easy-canvas.git"
+    "url": "git+https://github.com/Chaunjie/weapp-easy-canvas.git"
   },
   "keywords": [
     "wexp",
@@ -19,7 +19,7 @@
   "author": "chaujie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chaunjie/wexp-easy-canvas/issues"
+    "url": "https://github.com/Chaunjie/weapp-easy-canvas/issues"
   },
-  "homepage": "https://github.com/Chaunjie/wexp-easy-canvas#readme"
+  "homepage": "https://github.com/Chaunjie/weapp-easy-canvas#readme"
 }

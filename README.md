@@ -1,17 +1,17 @@
-# 在wexp项目中使用该组件
-wexp-easy-canvas是基于wexp框架编写，旨在帮助开发者简单绘制canvas的组件（只需要用户提供一个json格式的数据就自动绘制canvas）
+# 在项目中使用该组件
+weapp-easy-canvas是在小程序环境下，旨在帮助开发者简单绘制canvas的组件（只需要用户提供一个json格式的数据就自动绘制canvas）
 
 ## 安装
 
 ```bash
-$ npm i wexp-easy-canvas -S --production
+$ npm i weapp-easy-canvas -S --production
 ```
 
 ## 使用
 
 ```bash
 usingComponents: {
-  "k-canvas": "wexp-easy-canvas/index"
+  "k-canvas": "weapp-easy-canvas/index"
 }
 ```
 
