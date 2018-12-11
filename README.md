@@ -11,7 +11,7 @@ $ npm i wexp-easy-canvas -S --production
 
 ```bash
 usingComponents: {
-  "k-canvas": "wexp-easy-canvas"
+  "k-canvas": "wexp-easy-canvas/index"
 }
 ```
 
