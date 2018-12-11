@@ -85,7 +85,7 @@ top | 文本左上角距离画板顶部的距离 | 0 |
 left | 文本左上角距离画板左侧的距离 | 0 | 
 maxLine | 最大行数，当设置了该属性，超出行数内容的显示为... | 2 | 
 width | 和 `maxLine` 属性配套使用，`width` 就是达到换行的宽度 |  | 
-textDecoration | 显示中划线、下划线效果 | none | underline（下划线）、line-through（中划线）
+textDecoration | 显示中划线、下划线效果 | none | overline（上划线）、 underline（下划线）、line-through（中划线）
 
 #### rect (矩形，线条)
 属性 | 含义 | 默认值 | 可选值
